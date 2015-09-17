@@ -1,7 +1,7 @@
 #include "AppDelegate.h"
 #include "LoginScene.h"
 #include "BattleScene.h"
-
+//gfgggfg
 USING_NS_CC;
 
 AppDelegate::AppDelegate() {
